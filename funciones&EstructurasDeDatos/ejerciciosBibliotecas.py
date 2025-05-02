@@ -1,6 +1,6 @@
 # 1 - Escribe un código para instalar la versión 3.7.1 de la biblioteca matplotlib.
 
-# ! pipi install matplotlib==3.7.1
+# ! pip install matplotlib==3.7.1
 
 # 2 - Escribe un código para importar la biblioteca numpy con el alias np.
 
